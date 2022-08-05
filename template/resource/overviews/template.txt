@@ -1,0 +1,7 @@
+"template"
+{
+    "material"  "overviews/template"
+    "pos_x"     "-2526"
+    "pos_y"     "2512"
+    "scale"     "5"
+}
